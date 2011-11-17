@@ -1,3 +1,3 @@
-h2. Utilizando a documentação
+h2. Utilizando a documentaÃ§Ã£o
 
-A documentação foi retirada do site do criador do Spaghetti*, os textos estão em português e a navegação entre os arquivos ainda não foi corrigida. Para ler cada arquivo é necessário voltar a raíz do projeto e clicar em cima dele.
+A documentaÃ§Ã£o foi retirada do site do criador do Spaghetti*, os textos estÃ£o em portuguÃªs e a navegaÃ§Ã£o entre os arquivos ainda nÃ£o foi corrigida. Para ler cada arquivo Ã© necessÃ¡rio voltar a raÃ­z do projeto e clicar em cima dele.
